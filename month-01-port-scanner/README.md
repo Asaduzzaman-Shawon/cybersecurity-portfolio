@@ -14,20 +14,32 @@ This month covers the absolute basics I need before touching any real hacking to
 ## 🐧 Part 1: Linux Fundamentals
 
 **What I practiced:**
-- *(e.g., file system navigation, permissions, package management, bash basics)*
+- *Navigation command*
+- *File Operation*
+- *Grep Text search*
+- *Find File*
+- *And I have complete OverTheWire Bandit Level 1 to 7*
 
 **Key commands I got comfortable with:**
 ```bash
 # example — replace with what you actually practiced
 ls -la
-chmod +x script.sh
-grep -r "pattern" .
+pwd
+cd ~
+du
+find
+mkdir
+cp
+mv
+grep 
 ```
 
 **Notes:**
-*(2-4 lines — anything that clicked, or was confusing at first and then made sense)*
+*OverTheWire bandit level 1 to 6  was very easier for me, im using kali linux from today and i practice 5 to 6 hours, now im enjoying that*
 
-![linux practice screenshot](./screenshots/01-linux.png)
+![linux practice screenshot](<img width="625" height="415" alt="Capture" src="https://github.com/user-attachments/assets/17d17210-5abb-4363-a6a0-8187a72ba3f7" />
+)
+
 
 ---
 
