@@ -25,7 +25,7 @@ This month covers the absolute basics I need before touching any real hacking to
 # example — replace with what you actually practiced
 ls -la
 pwd
-cd ~
+cd 
 du
 find
 mkdir
@@ -37,8 +37,10 @@ grep
 **Notes:**
 *OverTheWire bandit level 1 to 6  was very easier for me, im using kali linux from today and i practice 5 to 6 hours, now im enjoying that*
 
-![linux practice screenshot](<img width="625" height="415" alt="Capture" src="https://github.com/user-attachments/assets/17d17210-5abb-4363-a6a0-8187a72ba3f7" />
-)
+**ScreenShots:**
+
+<img width="325" height="215" alt="Capture" src="https://github.com/user-attachments/assets/17d17210-5abb-4363-a6a0-8187a72ba3f7" />
+
 
 
 ---
